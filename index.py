@@ -1,6 +1,5 @@
 import cv2
 from ultralytics import YOLO
-print("hello")
 # Load the YOLO model
 model = YOLO("yolov8n.pt")  # Use the appropriate YOLOv8 model
 
